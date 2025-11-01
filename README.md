@@ -1,34 +1,34 @@
-## Nama Pencipta: Syafiq Bamazruk
-#  Nama Tim : Skinfa Developers
+# Nama Pencipta: Syafiq Bamazruk
+##  Nama Tim : Skinfa Developers
  Judul Project: Website Edukasi Finansial “Uang Pintar”
  Tema: Edukasi Finansial untuk Remaja dan Dewasa | “Innovation Beyond Limits: Empowering the Future with IT”
 
-# 💡 Latar Belakang
+## 💡 Latar Belakang
 
 Di era modern saat ini, masih banyak remaja dan dewasa muda yang belum memahami cara mengelola keuangan dengan baik. Banyak dari mereka belum mengenal konsep dasar seperti perencanaan anggaran, menabung, investasi, maupun manajemen pengeluaran. Akibatnya, muncul berbagai masalah finansial di usia muda seperti boros, terlilit hutang, atau tidak punya tabungan jangka panjang.
 
 Melihat hal tersebut, saya terinspirasi untuk membuat website edukasi finansial yang menarik, interaktif, dan mudah dipahami, agar generasi muda bisa belajar mengatur keuangan secara cerdas sejak dini.
 
-# ⚠️ Permasalahan
+## ⚠️ Permasalahan
 
 - Kurangnya pengetahuan remaja tentang manajemen keuangan pribadi.
 - Minimnya platform edukasi finansial yang dikemas secara menarik dan interaktif.
 - Sulitnya menemukan alat bantu praktis untuk menghitung anggaran, investasi, dan tabungan.
 
-# 🚀 Solusi
+## 🚀 Solusi
 
 Website Uang Pintar hadir sebagai solusi digital edukatif yang membantu pengguna memahami konsep finansial secara menyenangkan.
 Dengan desain yang sangat menarik, responsif, dan berfokus pada kesempurnaan UI/UX, website ini mempunyai tampilan yang mudah dipahami, profesional, dan nyaman digunakan di semua perangkat.
 Setiap elemen dirancang dengan interaksi yang halus, layout modern, serta performa yang ringan, sehingga pengguna dapat belajar, menghitung, dan merencanakan keuangan mereka secara mandiri dengan pengalaman terbaik.
 
-# 🎯 Tujuan
+## 🎯 Tujuan
 
 - Meningkatkan literasi finansial di kalangan remaja dan dewasa.
 - Menyediakan platform belajar keuangan digital yang seru dan mudah dipahami.
 - Membantu pengguna dalam mengelola uang, menabung, dan berinvestasi dengan bijak.
 - Mendorong generasi muda agar lebih siap menghadapi tantangan finansial masa depan.
 
-# 🧠 Fitur Unggulan
+## 🧠 Fitur Unggulan
 
 - 💰 Kalkulator Perencanaan Anggaran Pintar – membantu pengguna menghitung rencana keuangan bulanan.
 - 🎯 Tabungan Tujuan – fitur menabung berdasarkan target yang ingin dicapai.
@@ -38,7 +38,7 @@ Setiap elemen dirancang dengan interaksi yang halus, layout modern, serta perfor
 - 📊 Dashboard – menampilkan hasil, progress, dan laporan keuangan pengguna dengan desain modern.
 - 📚 Ebook Gratis – sumber belajar tambahan untuk mendukung peningkatan literasi finansial.
 
-# 💻 Teknologi yang Digunakan
+## 💻 Teknologi yang Digunakan
 
 - HTML5 – untuk struktur halaman web
 
@@ -48,7 +48,7 @@ Setiap elemen dirancang dengan interaksi yang halus, layout modern, serta perfor
 
 - Bootstrap – untuk desain responsif dan komponen modern
 
-# 📂 Struktur Project
+## 📂 Struktur Project
 ```
 SYAFIQBAMAZRUK_ITFEST.UHO_WEBDESIGN/
 │
@@ -92,5 +92,5 @@ SYAFIQBAMAZRUK_ITFEST.UHO_WEBDESIGN/
 ## Website tersedia (Aktif) :
 https://uangpintar.netlify.app
 
-# Dokumentasi Proyek : 
+## Dokumentasi Proyek : 
 ![Dokumentasi Proyek](_DOKUMENTASI.png)
