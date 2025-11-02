@@ -64,9 +64,9 @@ SYAFIQBAMAZRUK_ITFEST.UHO_WEBDESIGN/
 ├── .htaccess             # Pengaturan URL rewrite agar link lebih rapi
 │
 ├── about.html            # Halaman tentang website
-├── artikel-1.html        # Artikel edukasi finansial 1
-├── artikel-2.html        # Artikel edukasi finansial 2
-├── artikel-3.html        # Artikel edukasi finansial 3
+├── artikel-1.html        # Artikel 1
+├── artikel-2.html        # Artikel 2
+├── artikel-3.html        # Artikel 3
 │
 ├── belajarfinansial.html # Halaman pembelajaran finansial
 │
